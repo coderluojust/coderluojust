@@ -9,5 +9,5 @@
 - 💬 Ask me about ... Java、Cooking
 - 📫 How to reach me: 微信搜索：程序员七哥，[知乎/程序员七哥](https://www.zhihu.com/people/ccgogoing)
 - 😄 Pronouns: 七哥:smirk:
-- ⚡ Fun fact: 学习做视频，分享技术与生活
+- ⚡ Fun fact: 学习做视频，在微信视频号上分享技术与生活，欢迎交流
 
